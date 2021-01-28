@@ -20,16 +20,16 @@ Allez sur [whimsical.com](https://whimsical.com) et créez votre compte. **Pour 
 Un compte gratuit vous donne droit à 4 boards (tableaux) pour vos projets, ce qui est suffisant pour faire le module.
 
 ## Mode flowchart
-![Interface de Whimsical](./01.png)
+![Interface de Whimsical](./01.png)\
 Cliquez sur *Mode*, puis choisissez *Flowchart*.
 ### Ajouter une forme
 ![Barre d'outils du mode Flowchart de Whimsical](./02.png)\
 En dessous du choix du mode, vous avez un rectangle qui vous servira à créer les étapes de l'interface que vous devez produire.
 ![](./03.png)\
 Ensuite vous pouvez personnaliser ou ajouter une étape dans la directions de votre choix.
-![](./04.png)\
+![](./04.png)
 ### Ajouter un connecteur
-Dans la barre d'outils, en dessous de "Add a shape", vous avez le bouton avec une flêche "add a connector". C'est ce qui vous servira à relier une étape éloignée d'une autre. Pour ça, il vous suffit de déssiner le parcours de la flêche et l'interface devrait comprendre ce que vous souhaitez faire
+Dans la barre d'outils, en dessous de "Add a shape", vous avez le bouton avec une flêche "add a connector". C'est ce qui vous servira à relier une étape éloignée d'une autre. Pour ça, il vous suffit de déssiner le parcours de la flêche et l'interface devrait comprendre ce que vous souhaitez faire\
 ![](./05.png)\
 C'est tout ce qu'il y a à savoir sur le mode *flowchart*. Libre à vous d'expérimenter et de vous avanturez hors des sentiers battus.
 
@@ -47,12 +47,12 @@ Dans son mode wireframe, Whimsical intègre une bibliothèque d'éléments d'int
 Cliquez sur *Add an element* puis choisissez parmis la liste comme ci-dessous.\
 ![](./10.png)\
 ### Personnaliser un élément
-![](./11.png)\
+![](./11.png)
 J'ai choisi d'intégrer un bouton et comme sur l'image du dessus, vous devriez avoir le menu de personnalisation qui s'affiche.
 #### Ajouter une icône à un bouton
 ![](./12.png)\
 Cliquez sur l'icône avec la grille de petits carrés et la liste des icônes s'affiche. Vous pouvez placez l'icône à gauche où à droite en cliquant sur les boutons *L* ou *R* qui sont situé en bas du menu :\
-![](./13.png)\
+![](./13.png)
 ### Élément de formulaire
 Par exemple, pour un élément de type *checkbox*\
 ![](./14.png)\
@@ -68,7 +68,7 @@ Un state, c'est l'état dans lequel se trouve l'élément. Il peut être :
 
 ## Naviguer sur votre tableau
 Pour naviguer rapidement sur votre tableau, vous avez cette barre d'outils en bas :\
-![](./15.png)\
+![](./15.png)
 - La flêche arrière revient en arrière dans l'historique de vos actions (Raccourci clavier : Control + Z)
 - La flêche arrière revient en avant dans l'historique de vos actions (Raccourci clavier : Control + Shift + Z )
 - La main vous permet de vous déplacer sur votre tableau (Raccourci clavier : maintenir la barre d'espace + clic et déplacez la souris)
