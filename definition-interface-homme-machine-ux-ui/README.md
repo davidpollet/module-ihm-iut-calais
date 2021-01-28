@@ -1,7 +1,24 @@
 # Interface Homme-machine
+- [Interface Homme-machine](#interface-homme-machine)
+  - [Qu'est-ce qu'une interface homme machine ?](#quest-ce-quune-interface-homme-machine)
+  - [Le rôle d'une interface](#le-rôle-dune-interface)
+    - [Exemple: une app de traduction](#exemple-une-app-de-traduction)
+  - [Les disciplines de l'IHM](#les-disciplines-de-lihm)
+    - [L'expérience utilisateur (UX)](#lexpérience-utilisateur-ux)
+    - [Le design d'interface utilisateur (UI)](#le-design-dinterface-utilisateur-ui)
+  - [Comment construire une expérience utilisateur ?](#comment-construire-une-expérience-utilisateur-)
+    - [Flowchart](#flowchart)
+    - [Wireframes](#wireframes)
+  - [Construisons une interface de quizz](#construisons-une-interface-de-quizz)
+    - [Voilà tante Flow !](#voilà-tante-flow-)
+      - [Les boucles et connecteurs unificateurs](#les-boucles-et-connecteurs-unificateurs)
+    - [Wireframe du quizz](#wireframe-du-quizz)
+      - [Résultat](#résultat)
+    - [Enrichir l'UX](#enrichir-lux)
+
+
 ## Qu'est-ce qu'une interface homme machine ?
 L'arrivée des machines puis des ordinateurs nous a permis de produire plus, plus vite et avec plus de confort. Mais pour que la promesse puisse être tenu, il faut que la communication entre l'humain et sa machine soit efficace. Et c'est là qu'entre en scène les interfaces.
-
 
 ## Le rôle d'une interface
 Une interface, c'est le moyen qui nous permet de communiquer avec une machine, un appareil, un ordinateur, ect. C'est un échange de besoins et de réponses.
@@ -19,7 +36,7 @@ Sans interface, la machine ne peut rien pour vous et tout ce qu'il vous reste à
 Pour qu'une interface soit efficace, elle doit prendre en compte les caratérisiques humaines telque la vue, le langage, les émotions, la capacité d'agir, de réflechirn d'apprendre, ect. Elle doit prendre aussi en compte nos défauts comme un handicap ou notre irritabilité par exemple.
 Pour produire une bonne interface, deux disciplines ont chacunes un job attitrés.
 
-![UIUX-Whatisdesign-UIUX](./UIUX-Whatisdesign-UIUX.png)
+![UIUX-Whatisdesign-UIUX](./UIUX-Whatisdesign-UIUX.png)\
 Source de l'image : [Springboard](https://www.springboard.com/library/ui-ux-design/how-to-become/)
 ### L'expérience utilisateur (UX)
 Le role de l'UX (User Expérience en anglais), c'est comment permettre à une personne d'éxecuter une tâche de la manière la plus satisfaisante possible.
@@ -46,11 +63,11 @@ Du point de vue de la machine, elle a besoin de savoir sur quel sujet l'utilisat
 
 ### Voilà tante Flow !
 Commençons par le flowchart. Le point d'entré, c'est quelqu'un qui veux jouer. Donc l'interface doit proposer de jouer.
-![](01.png)
+![](01.png)\
 L'étape suivante, c'est le choix du sujet.
-![](02.png)
+![](02.png)\
 Maintenant, le jeux peut commencer. L'interface vous propose une question et vous devez y répondre.
-![](03.png)
+![](03.png)\
 Et là, on atteind un point de rupture parce qu'il y a deux scénarios : soit l'utilisateur a répondu correctement, soit il a fait une erreur. Donc l'interface se divise provisoirement (ou non) selon votre cas.
 ![](04.png)
 Si l'utilisateur a mal répondu, vous devez faire un choix de conception. Est-ce qu'on affiche directement la réponse et on passe à la question suivante ou est-ce que l'interface reste bloqué jusqu'à ce qu'il réponde correctement ? Ici, j'ai choisi d'afficher la réponse.
