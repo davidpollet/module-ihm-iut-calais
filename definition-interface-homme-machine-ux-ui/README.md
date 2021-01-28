@@ -71,7 +71,7 @@ Maintenant, le jeux peut commencer. L'interface vous propose une question et vou
 Et là, on atteind un point de rupture parce qu'il y a deux scénarios : soit l'utilisateur a répondu correctement, soit il a fait une erreur. Donc l'interface se divise provisoirement (ou non) selon votre cas.
 ![](04.png)\
 Si l'utilisateur a mal répondu, vous devez faire un choix de conception. Est-ce qu'on affiche directement la réponse et on passe à la question suivante ou est-ce que l'interface reste bloqué jusqu'à ce qu'il réponde correctement ? Ici, j'ai choisi d'afficher la réponse.
-![](05.png)\
+![](05.png)
 #### Les boucles et connecteurs unificateurs
 Si l'utilateur a bien répondu, l'interface va passer à la question suivante. L'utilisateur devra répondre et ainsi de suite. Donc ici, on a une étape qui va se répéter jusqu'à la fin du jeu.
 Au lieu de continuer à refaire indéfiniment l'étape sur le flowchart, on va ajouter un connecteur qui rejoind l'étape initial. Donc voici le résultat final du flowchart

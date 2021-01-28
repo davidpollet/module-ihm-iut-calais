@@ -38,23 +38,23 @@ C'est tout ce qu'il y a à savoir sur le mode *flowchart*. Libre à vous d'expé
 Cliquez sur *Mode*, puis choisissez *Wireframe*. La barre d'outils devrait avoir la même apparence que sur l'image du dessus.
 ### Ajouter un cadre de conception
 ![](./07.png)\
-Le premier outil qui nous intéresse est *Add a frame*. Choisir un cadre permet de mieux distinguer si vous concevez une interface pour mobile ou ordinateur. Prennez ce dont vous avez besoin et validez.
+Le premier outil qui nous intéresse est *Add a frame*. Choisir un cadre permet de mieux distinguer si vous concevez une interface pour mobile ou ordinateur. Prennez ce dont vous avez besoin et validez.\
 ![](./08.png)\
 Ici, j'ai pris une fenêtre de navigateur de bureau. Vous pouvez la personnaliser et la renommer pour mieux vous reperez dans le cas où vous en mettez plusieurs sur le même tableau.
 ### Ajouter un élément
-Dans son mode wireframe, Whimsical intègre une bibliothèque d'éléments d'interface.
+Dans son mode wireframe, Whimsical intègre une bibliothèque d'éléments d'interface.\
 ![](./09.png)\
-Cliquez sur *Add an element* puis choisissez parmis la liste comme ci-dessous
+Cliquez sur *Add an element* puis choisissez parmis la liste comme ci-dessous.\
 ![](./10.png)\
 ### Personnaliser un élément
 ![](./11.png)\
 J'ai choisi d'intégrer un bouton et comme sur l'image du dessus, vous devriez avoir le menu de personnalisation qui s'affiche.
 #### Ajouter une icône à un bouton
 ![](./12.png)\
-Cliquez sur l'icône avec la grille de petits carrés et la liste des icônes s'affiche. Vous pouvez placez l'icône à gauche où à droite en cliquant sur les boutons *L* ou *R* qui sont situé en bas du menu :
+Cliquez sur l'icône avec la grille de petits carrés et la liste des icônes s'affiche. Vous pouvez placez l'icône à gauche où à droite en cliquant sur les boutons *L* ou *R* qui sont situé en bas du menu :\
 ![](./13.png)\
 ### Élément de formulaire
-Par exemple, pour un élément de type *checkbox*
+Par exemple, pour un élément de type *checkbox*\
 ![](./14.png)\
 Vous voyez normalement une option *State* qui est reglé par défaut sur *normal*
 #### Qu'est-ce qu'un state ?
@@ -67,7 +67,7 @@ Un state, c'est l'état dans lequel se trouve l'élément. Il peut être :
 - Disabled : L'item est desactivé. Par exemple, une option de livraison indisponible temporairement.
 
 ## Naviguer sur votre tableau
-Pour naviguer rapidement sur votre tableau, vous avez cette barre d'outils en bas :
+Pour naviguer rapidement sur votre tableau, vous avez cette barre d'outils en bas :\
 ![](./15.png)\
 - La flêche arrière revient en arrière dans l'historique de vos actions (Raccourci clavier : Control + Z)
 - La flêche arrière revient en avant dans l'historique de vos actions (Raccourci clavier : Control + Shift + Z )
