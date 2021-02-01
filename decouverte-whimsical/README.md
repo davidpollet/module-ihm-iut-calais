@@ -16,8 +16,7 @@ Whimsical est l'application en ligne que nous allons utiliser pour ce module. El
   - [Naviguer sur votre tableau](#naviguer-sur-votre-tableau)
 
 ## Création du compte
-Allez sur [whimsical.com](https://whimsical.com) et créez votre compte. **Pour des question de RGPD, privilégiez votre adresse mail universitaire si possible.** Si vous optez pour votre adresse personnel, Whimsical offre la possibilité de supprimer son compte très simplement en allant dans les paramètres.
-Un compte gratuit vous donne droit à 4 boards (tableaux) pour vos projets, ce qui est suffisant pour faire le module.
+Allez sur Whimsical via le lien donné sur le Discord de l'IUT et créez votre compte. **Pour des question de RGPD, privilégiez votre adresse mail universitaire si possible.** Si vous optez pour votre adresse personnel, Whimsical offre la possibilité de supprimer son compte très simplement en allant dans les paramètres.
 
 ## Mode flowchart
 ![Interface de Whimsical](./01.png)\
